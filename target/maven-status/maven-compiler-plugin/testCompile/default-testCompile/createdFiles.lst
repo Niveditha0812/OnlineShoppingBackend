@@ -1,0 +1,11 @@
+com\niit\shoppingcart\ShippingAddressTestCase.class
+com\niit\shoppingcart\CategoryTestCase.class
+com\niit\shoppingcart\TestConfig.class
+com\niit\shoppingcart\OrderTestCase.class
+com\niit\shoppingcart\LineOfItemTestCase.class
+com\niit\shoppingcart\CartTestCase.class
+com\niit\AppTest.class
+com\niit\shoppingcart\BillingAddressTestCase.class
+com\niit\shoppingcart\ProductTestCase.class
+com\niit\shoppingcart\UserTestCase.class
+com\niit\shoppingcart\SupplierTestCase.class
